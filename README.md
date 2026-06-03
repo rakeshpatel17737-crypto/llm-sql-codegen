@@ -276,4 +276,4 @@ All examples follow the **Alpaca prompt format**:
 ## Author
 
 **Rakesh Akula** — Data Engineer  
-[LinkedIn](https://linkedin.com/in/rakeshakula) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/rakesh-akula-40a55a1b5/) · [GitHub](https://github.com/rakeshpatel17737-crypto)
